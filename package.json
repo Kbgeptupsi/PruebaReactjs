@@ -1,0 +1,19 @@
+{
+  "name": "pruebatec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"turbo dev"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "Marvel-Api/*"
+  ],
+  "devDependencies": {
+    "turbo": "^1.10.16"
+  }
+}
